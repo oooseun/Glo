@@ -15,3 +15,9 @@ We then make use of the pixelArray and WS2812 library to write to the LEDs.'WS28
   - Do the necessary soldering
   - write backend code on a server to provide weather & time. (if one is actually trying to replicate the project, feel free to contact ope(ooo25) to use mine. 
   - Contact Ope (ooo25) for alarm app.
+
+
+# App Preview
+
+
+![](https://raw.githubusercontent.com/oooseun/Glo/master/IMG_0858.jpg)
