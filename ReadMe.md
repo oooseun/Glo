@@ -1,6 +1,8 @@
 # ECE 3140 'Glo' project - Temp, weather and alarm beacon.
 **By Ope and Daria**
 
+Demo -> https://www.youtube.com/watch?v=NZNe1-gufVE
+
 Glo is a cloud-enabled, portable station that displays the weather and temperature on an 8x5 LED matrix. 
 Glo is also able to wake one up via light patterns and calling one's phone. The alarm is set via a simple iphone app;
 Contact ope (ooo25@cornell.edu) to get the app's source code. 
